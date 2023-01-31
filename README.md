@@ -13,7 +13,7 @@ This project uses Geopandas and Folium to generate an interactive map with marke
 
 - I used Geocoding to converting museums' name into geographic coordinates (latitude and longitude).
 - I used a GeoDataFrame to store the museums information.
-- I create a map centered on Mexico City, adds markers for the principal museums of Mexico City and popups displaying the museum names, images, and websites.To improve the readability and usability of the map, I add a menu bar to display museums by town hall. 
+- I create a map centered on Mexico City, adds markers for the principal museums of Mexico City and pop-up displaying the museum names, images, and websites.To improve the readability and usability of the map, I add a menu bar to display museums by town hall. 
 
 You can select Town Hall:
 <img src="https://github.com/AAdelaida/Interactive-Map-of-Museums-in-Mexico-City/blob/main/Images/mapa_interactivo2.jpg">

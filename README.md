@@ -16,11 +16,11 @@ This project uses Geopandas and Folium to generate an interactive map with marke
 - I create a map centered on Mexico City, adds markers for the principal museums of Mexico City and pop-up displaying the museum names, images, and websites.To improve the readability and usability of the map, I add a menu bar to display museums by town hall. 
 
 You can select Town Hall:
-<img src="https://github.com/AAdelaida/Interactive-Map-of-Museums-in-Mexico-City/blob/main/Images/mapa_interactivo2.jpg">
+<img src="https://github.com/AAdelaida/Interactive-Map-of-Museums-in-Mexico-City/Images/mapa_interactivo2.jpg">
 
 
 Pop-up windows show the name, image and website of the selected museum:
-<img src="https://github.com/AAdelaida/Interactive-Map-of-Museums-in-Mexico-City/blob/main/Images/mapa_interactivo3.jpg">
+<img src="https://github.com/AAdelaida/Interactive-Map-of-Museums-in-Mexico-City/Images/mapa_interactivo3.jpg">
 
 
 

@@ -17,6 +17,6 @@ This project uses Geopandas and Folium to generate an interactive map with marke
 
 |You can select town hall|View name, image and website of the selected museum|
 | ------------- | ------------- |
-|<img src="imagenes/mapa_interactivo2.jpg">|<img src="imagenes/mapa_interactivo3.jpg">|
+|<img src="Images/mapa_interactivo2.jpg">|<img src="Images/mapa_interactivo3.jpg">|
 
 ## Writing

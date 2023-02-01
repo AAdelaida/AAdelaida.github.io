@@ -9,7 +9,7 @@ I'm Consultant in Data Analytics and Artificial Intelligence. I have a keen inte
 ## Project Portfolio
 
 ### Interactive Map of Museums in Mexico City
-This project uses Geopandas and Folium to generate an interactive map with markers of the main museums in Mexico City, which you can consult by town hall. In addition, through pop-up windows the names, images and websites of the museums are displayed.
+This project uses Geopy, Geopandas and Folium to generate an interactive map with markers of the main museums in Mexico City, which you can consult by town hall. In addition, through pop-up windows the names, images and websites of the museums are displayed.
 
 - I used Geopy to converting museums' name into geographic coordinates (latitude and longitude).
 - I used a GeoDataFrame to store the museums information.
